@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nuvora.vercel.app/sitemap.xml
